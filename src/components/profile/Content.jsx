@@ -3,7 +3,7 @@ import React from 'react'
 const content = () => {
     return (
         <div>
-            {/* <main className="ml-64 p-8 relative">
+            {/* <main className=" relative">
                 <div className="max-w-4xl">
                     <div className="flex items-start justify-between">
                         <div className="space-y-6">
