@@ -10,6 +10,7 @@ module.exports = {
       },
       fontFamily: {
         dancing: ['Dancing Script', 'cursive'],
+        sans: ['Inter', 'sans-serif'],
       },
     },
   },

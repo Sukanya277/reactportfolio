@@ -6,12 +6,13 @@ import Content from './components/profile/Content';
 
 function App() {
   return (
-    <>
-      <div className='flex'>
-        <Sidebar />
-        <Content />
-      </div>
-    </>
+    <div className='flex'>
+      {/* Sidebar */}
+      <Sidebar />
+
+      {/* Main Content */}
+      <Content />
+    </div>
   );
 }
 
